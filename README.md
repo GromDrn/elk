@@ -6,7 +6,7 @@
 
 `Установите и запустите Elasticsearch, после чего поменяйте параметр cluster_name на случайный.`
 
-![Скриншот 1](https://github.com/GromDrn/
+![Скриншот 1](https://github.com/GromDrn/elk/blob/main/Screenshots/1-curl.png)
 
 ---
 
@@ -14,7 +14,7 @@
 
 `Установите и запустите Kibana.`
 
-![Скриншот 1](https://github.com/GromDrn/)
+![Скриншот 1](https://github.com/GromDrn/elk/blob/main/Screenshots/2-kibana.png)
 
 
 ---
@@ -23,13 +23,13 @@
 
 `Установите и запустите Logstash и Nginx. С помощью Logstash отправьте access-лог Nginx в Elasticsearch.`
 
-![Скриншот 1](https://github.com/GromDrn/)
+![Скриншот 1](https://github.com/GromDrn/elk/blob/main/Screenshots/3-logstash.png)
 
 ### Задание 4
 
 `Установите и запустите Filebeat. Переключите поставку логов Nginx с Logstash на Filebeat.`
 
 
-![Скриншот 1](https://github.com/GromDrn/)
+![Скриншот 1](https://github.com/GromDrn/elk/blob/main/Screenshots/4-filebeat.png)
 
 ---
